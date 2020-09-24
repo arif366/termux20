@@ -24,7 +24,7 @@ echo " []                    []"
 
 sleep 2
 
-echo "
+echo " pilih Tools yang mana "
 echo "\033[1;31mANDROID: \033[1;31m"
 echo " ______________________________"
 echo "|________🔴___________________|" 
@@ -34,23 +34,26 @@ echo "|   Hack Satelit              |"
 echo "|   Hack kamera               |"
 echo "|   Hack Gmail                |"
 echo "|   Hack  Lacak Nomer         |"           
-echo "|   Hack Lampu Lintas         |"                       |"
-echo "|   Hack CCTV                 |"           |"
-echo "|   Hack Bom SMs              |"            |"
-echo "|   Keluar                    |"                         |"
+echo "|   Hack Lampu Lintas         |"                       
+echo "|   Hack CCTV                 |"           
+echo "|   Hack Bom SMs              |"            
+echo "|   Keluar                    |"                         
 echo "|_____________________________|"
 echo "|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|"
 echo "|p|q|r|s|t|u|v|w|x|y|z|1|2|3|4|"
 echo "|5|6|7|8|9|10@|%|&|-|-|(|)|%|2|"
 echo "|_________[_______]___________|"
+if [ $pilih : "1" ]:
+then
 echo "
-sleep 2
-
-
-
+echo "
+echo "
+echo "
+sleep 1
 echo "Selamat datang kembali bersama Gua Arifisal"
 echo "
-echo "
+echo
+fi[
 done
 done
 
